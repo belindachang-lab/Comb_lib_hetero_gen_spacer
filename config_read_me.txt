@@ -1,9 +1,6 @@
 # Read me/config file for MB_PRIME.
-# Author: Ben Tudor Price
+# Author: Ben Tudor Price - Second Year Undergraduate
 # Email: benjamin.tudorprice@mail.utoronto.ca
-# Version History
-#   08/04/2022: V1.0
-#       - Initial release.
 
 # This program was initially designed for two step PCR, which requres the
 # adapter region specified below. However, one can still add the entirety of the
@@ -11,7 +8,6 @@
 # one step PCR primers. This program uses rudementary base counts as its core
 # metric when evaluating dimer formation potential, so the use of external
 # dimer evaluation metrics is reccomended.
-#
 
 # === Primer Structure Overview ===
 # 5'[Adapter Sequence]-[Heterogeneity Spacer]-[Binding Sequence]- 3'

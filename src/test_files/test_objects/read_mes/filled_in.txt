@@ -133,7 +133,7 @@ ATGCTAGCATGCATGTGATCGTAGCGCCGCGG
 *DIMER_WEIGHT = 2
 
 
-# === Program 3: heterogeneity_spacer_gen.py ===
+# === Program 3: run.py ===
 
 # This program works to design heterogeneity spacers that do not introduce
 # additional dimer structures into the primers. Here, we'll need the binding
