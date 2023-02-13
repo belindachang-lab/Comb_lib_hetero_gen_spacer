@@ -1,5 +1,5 @@
 from src.execution_managers.parameter_manager import *
-from test_files.fixtures_and_helpers import READ_MES_PATH
+from src.test_files.fixtures_and_helpers import READ_MES_PATH
 
 dummy_fasta_lines = [
     '@BEGIN_FASTA',

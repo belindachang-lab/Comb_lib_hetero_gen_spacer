@@ -1,6 +1,6 @@
 import pytest
 from seq_alignment_analyser.align import *
-from test_files.fixtures_and_helpers import ALIGNMENTS_PATH, get_msa
+from src.test_files.fixtures_and_helpers import ALIGNMENTS_PATH, get_msa
 import os
 
 all_alignment_paths = []

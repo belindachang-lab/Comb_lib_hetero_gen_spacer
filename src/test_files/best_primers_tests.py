@@ -1,8 +1,8 @@
 import pytest
 from seq_alignment_analyser.best_primers import *
-from test_files.fixtures_and_helpers import all_unique
+from src.test_files.fixtures_and_helpers import all_unique
 
-from test_files.fixtures_and_helpers import get_msa
+from src.test_files.fixtures_and_helpers import get_msa
 
 seqn = ("GGATTCCCCGTCAACTTCCTCACGCTGTACGTCACAATCGAACACAAGAA"
         "GCTACGCTCGCCTCTCAACTACATCCTGCTCAATCTGGCCGTGGCCGACC"

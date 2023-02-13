@@ -1,7 +1,6 @@
 from seq_alignment_analyser import *
-from test_files.fixtures_and_helpers import ALIGNMENTS_PATH, TEST_OUTPUT_PATH
+from src.test_files.fixtures_and_helpers import TEST_OUTPUT_PATH
 from test_align import get_msa
-import matplotlib.pyplot as plt
 
 to_run_name = '25_seqs'
 
