@@ -189,7 +189,8 @@ class ParameterManager:
 
         if self.get('OUTPUT_FASTA') == 'DIR':
             self._values_dict['OUTPUT_FASTA'] = \
-                Path(os.path.dirname(__file__)).parent / 'output_primers.fasta'
+                Path(os.path.dirname(__file__)).parent.parent / \
+                'output_primers.fasta'
 
         if self.get('NUM_CORES') == 0:
             self._values_dict['NUM_CORES'] = os.cpu_count()
