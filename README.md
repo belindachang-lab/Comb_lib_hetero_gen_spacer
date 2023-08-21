@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/601367802.svg)](https://zenodo.org/badge/latestdoi/601367802)
 # hetero_spacer_gen
 
 hetero_spacer_gen is a program than enables the design of heterogeneity spacers that introduce nucleotide diversity into low diversity libraries.
